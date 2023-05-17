@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**kellyr27/kellyr27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Sydney based programmer. Some of my Project Highlights include:
 
-Here are some ideas to get you started:
+# Jeesh 2.0
+- Use of Three.js
+- Player 2 is programmed using the Monte Carlo Tree Search algorithm. The MCTS has been manually multithreaded to be executed inbetween ticks.
+- Soldier movements in 3D space are modelled using Quadratic Bezier Curve's.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Movie Centre
+- Used Mongoose/MongoDB databases, Express.js for backend
+- Created custom Trie data structure for advanced searching function. Able to search using keywords seperated by spaces.
+- Use of EJS to generate HTML markup
+- Multiple CRUD implementations
+
+# Project Scifi 2.0
+- React.js based project
