@@ -6,6 +6,7 @@ I am a Sydney based programmer. Some of my Project Highlights include:
 - Use Three.js to generate a 3D Strategy Game.
 - Player 2 is programmed using the Monte Carlo Tree Search algorithm. The MCTS has been manually multithreaded to be executed inbetween ticks.
 - Soldier movements in 3D space are modelled using Quadratic Bezier Curve's.
+- Deployed at https://jeesh.com
 
 # Movie Centre
 - Used Mongoose/MongoDB databases, Express.js for backend
