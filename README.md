@@ -3,7 +3,7 @@
 I am a Sydney based programmer. Some of my Project Highlights include:
 
 # Jeesh 2.0
-- Use of Three.js
+- Use Three.js to generate a 3D Strategy Game.
 - Player 2 is programmed using the Monte Carlo Tree Search algorithm. The MCTS has been manually multithreaded to be executed inbetween ticks.
 - Soldier movements in 3D space are modelled using Quadratic Bezier Curve's.
 
@@ -14,6 +14,6 @@ I am a Sydney based programmer. Some of my Project Highlights include:
 - Multiple CRUD implementations
 
 # Project Scifi 2.0
-- React.js based project
+- Single-page responsive website using React.js.
 - ChatGPT generated content
-- [https://](https://projectscifi.com/movies/best-classic-scifi-movies)https://projectscifi.com/movies/best-classic-scifi-movies
+- Deployed at https://projectscifi.com
