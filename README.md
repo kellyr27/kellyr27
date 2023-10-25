@@ -15,3 +15,5 @@ I am a Sydney based programmer. Some of my Project Highlights include:
 
 # Project Scifi 2.0
 - React.js based project
+- ChatGPT generated content
+- [https://](https://projectscifi.com/movies/best-classic-scifi-movies)https://projectscifi.com/movies/best-classic-scifi-movies
