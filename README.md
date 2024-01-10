@@ -7,6 +7,7 @@ I am a Sydney based programmer. Some of my Project Highlights include:
 - Player 2 is programmed using the Monte Carlo Tree Search algorithm. The MCTS has been manually multithreaded to be executed inbetween ticks.
 - Soldier movements in 3D space are modelled using Quadratic Bezier Curve's.
 - Deployed at https://jeesh.com
+- Jeesh 3.0 currently in progress, see https://working-prototype--melodious-squirrel-385bfc.netlify.app/
 
 # Movie Centre
 - Used Mongoose/MongoDB databases, Express.js for backend
