@@ -9,13 +9,19 @@ I am a Sydney based programmer. Some of my Project Highlights include:
 - Deployed at https://jeesh.com
 - Jeesh 3.0, rebuilding in the REACT framework currently in progress, see https://working-prototype--melodious-squirrel-385bfc.netlify.app/
 
-# Movie Centre
-- Used Mongoose/MongoDB databases, Express.js for backend
-- Created custom Trie data structure for advanced searching function. Able to search using keywords seperated by spaces.
-- Use of EJS to generate HTML markup
-- Multiple CRUD implementations
+# Climbing Log
+- For logging indoor lead climbs.
+- REACT Single Page Application
+- Express.js for backend using SQL database with Sequelize.
+- Deployed at https://climbinglog.com.au
 
 # Project Scifi 2.0
 - Single-page responsive website using React.js.
 - ChatGPT generated content
 - Deployed at https://projectscifi.com
+
+# Movie Centre
+- Used Mongoose/MongoDB databases, Express.js for backend
+- Created custom Trie data structure for advanced searching function. Able to search using keywords seperated by spaces.
+- Use of EJS to generate HTML markup
+- Multiple CRUD implementations
