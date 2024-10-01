@@ -16,8 +16,3 @@ I'm a developer based in Sydney, Australia. Here are some highlights of my recen
 - Implemented the Monte Carlo Tree Search (MCTS) algorithm for Connect Four.
 - Its game-agnostic design allows adaptation to other deterministic two-player games.
 - Developed as a Major Project for COMP4121 Advanced Algorithms at UNSW, Australia.
-
-# <img src="https://github.com/kellyr27/Project-Scifi-2.0/assets/83458976/495bb2e1-c511-45fd-b825-34bb4b6af3dd" width="35">  Project Scifi
-- Designed a single-page responsive website using REACT.
-- Integrated ChatGPT for generating content.
-- Explore the project at [projectscifi.com](https://projectscifi.com).
