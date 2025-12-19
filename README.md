@@ -10,7 +10,7 @@ I'm a software developer based in Australia. I enjoy competitive programming, an
 # <img src="https://github.com/kellyr27/Indoor-Climbing-Log-2.0/assets/83458976/8661b386-4465-4216-a96d-c2f9c5bccc55" width="35">  Climbing Log
 - Built a REACT Single Page Application for logging indoor lead climbs.
 - Utilized Express.js for the backend with a MongoDB database. Testing using Jest and Supertest libraries.
-- Access the app at [climbinglog.com.au](https://climbinglog.com.au), compatible on all devices.
+- Access the app at [here](https://indoor-climbing-log-2-0.onrender.com), compatible on all devices.
 
 # Monte Carlo Tree Search Algorithm
 - Implemented the Monte Carlo Tree Search (MCTS) algorithm for Connect Four.
