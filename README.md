@@ -1,6 +1,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kelly27?theme=nord&font=ABeeZee&ext=heatmap)
 
-I'm a software developer based in Australia. I enjoy competitive programming, and here are some highlights of my personal projects:
+I'm a software developer based in Australia. I enjoy competitive programming, here are some highlights of my personal projects:
 
 # ![rotating_star3](https://github.com/kellyr27/kellyr27/assets/83458976/28066a82-38e3-4dd1-8b26-857ba0557c4e)  Jeesh
 - Exploratory creative project using the REACT and ThreeJS.
