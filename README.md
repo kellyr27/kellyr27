@@ -1,4 +1,4 @@
-![LeetCode Stats](https://leetcard.jacoblin.cool/kelly27?theme=nord&font=ABeeZee&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kelly27?theme=nord&font=ABeeZee&ext=heatmap)](https://leetcode.com/u/kelly27/)
 
 I'm a software developer based in Australia. I enjoy competitive programming, here are some highlights of my personal projects:
 
